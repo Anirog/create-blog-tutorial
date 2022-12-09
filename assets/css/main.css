@@ -1,5 +1,5 @@
 /* Import font */
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
 /* Custom properties */
 :root{
     --light-color: #fff;
@@ -12,7 +12,7 @@
         115deg,#4fcf70,#fad648,#a767e5,#12bcfe,#44ce7b);
     --transparent-light-color: rgba(255,255,255,.05);
     --transparent-dark-color: rgba(0,0,0,.75);
-    --font-family: 'Poppins', sans-serif;
+    --font-family: 'Inter', sans-serif;
     --font-size-xsm: 1.2rem;
     --font-size-sm: 1.6rem;
     --font-size-md: 2.4rem;
@@ -690,7 +690,7 @@ body.light-theme {
 
 .author-name {
     color: var(--light-color);
-    font-weight: 400;
+    font-weight: 700;
 }
 
 .author p {
